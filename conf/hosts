@@ -1,0 +1,5 @@
+192.168.2.231 sp-master
+192.168.2.169 sp-worker1
+192.168.2.159 sp-worker2
+192.168.2.158 sp-worker3
+192.168.2.214 sp-worker4
