@@ -1,6 +1,6 @@
 # Using cluster through Jupyter notebook:
 
-1. Create a `small` instance, with the base image `Ubuntu 22.04 -2023.01.07`. Feel free to use the `Group 12` key Joel uploaded earlier.
+1. Create a cloud instance (on UPPMAX, create a `small` instance running the base image `Ubuntu 22.04 - 2023.01.07`)
 2. SSH config file, remember to edit the public IP and path to the private SSH key.
     ```
     Host devm
